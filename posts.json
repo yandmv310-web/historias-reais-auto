@@ -1,0 +1,76 @@
+{
+  "handle": "@historiasreais00",
+  "_nota": "Banco de posts. Cada item vira 1 card + 1 publicação. Para adicionar mais, copie um bloco e mude o id (sem espaços/acentos). O script usa o primeiro id cujo arquivo ainda não existe em images/.",
+  "posts": [
+    {
+      "id": "cleopatra-lua-piramides",
+      "headline": "Cleópatra viveu mais perto da Lua do que das pirâmides",
+      "subtext": "A Grande Pirâmide já tinha 2.500 anos quando ela nasceu",
+      "caption": "Cleópatra viveu mais perto da Lua do que das pirâmides.\n\nParece exagero, mas é matemática simples. A Grande Pirâmide de Gizé ficou pronta por volta de 2.560 a.C. Cleópatra VII nasceu em 69 a.C. e governou o Egito até 30 a.C. Entre uma coisa e outra: mais de 2.500 anos.\n\nDo outro lado, a Lua. O ser humano chegou lá em 1969 — menos de 2.000 anos depois da morte dela.\n\nOu seja: quando Cleópatra olhava para o céu, a Lua estava \"mais perto\" no tempo do que o monumento que já estava ali do lado de casa, com 2,5 mil anos de idade.\n\nO Egito que ela conheceu não era o Egito das pirâmides recém-construídas. Era um império antigo, com capital barulhenta, biblioteca, comércio grego e templos milenares já em ruínas. Para os egípcios daquela época, a Grande Pirâmide era tão distante quanto o descobrimento do Brasil é para nós.\n\nO tempo engana. A gente junta tudo em um pacote só — \"Egito antigo\" — mas são milhares de anos entre uma coisa e outra. Civilizações inteiras nasceram e morreram ali antes dela.\n\nSalva esse post para lembrar na próxima discussão de história.\nComenta: você já sabia disso?",
+      "hashtags": "#historia #curiosidades #cleopatra #egito #piramides #curiosidadeshistoricas #historiageral #fatos #vocesabia #antigoegito #aprendinoninstagram #cultura"
+    },
+    {
+      "id": "mamute-piramides",
+      "headline": "Os mamutes ainda viviam quando as pirâmides foram construídas",
+      "subtext": "A última população de mamutes-lanosos sobreviveu até 1.700 a.C.",
+      "caption": "Os mamutes ainda viviam quando as pirâmides foram construídas.\n\nA Grande Pirâmide de Gizé ficou pronta por volta de 2.560 a.C. E existia uma população de mamutes-lanosos viva na Ilha de Wrangel, no Ártico russo, até cerca de 1.700 a.C. — séculos depois.\n\nIsso significa que egípcios e mamutes dividiram o mesmo planeta por mais de 800 anos. Não em lugares distantes e imaginários: no mesmo mundo, ao mesmo tempo.\n\nA parte estranha é que a imagem que a gente faz é de eras completamente separadas. Dinossauros, mamutes, pirâmides, Roma. Nada disso está na mesma prateleira.\n\nA gente separa o tempo em caixinhas arrumadas, mas a história real é bagunçada — coisas de \"épocas diferentes\" convivem o tempo todo.\n\nSalva esse post para lembrar na próxima conversa sobre pré-história.\nComenta: essa você não sabia, né?",
+      "hashtags": "#historia #mamute #curiosidades #piramides #egito #prehistoria #curiosidadeshistoricas #fatos #vocesabia #historiageral #aprendinoninstagram"
+    },
+    {
+      "id": "oxford-mais-antiga-astecas",
+      "headline": "Oxford é mais antiga que o Império Asteca",
+      "subtext": "A universidade já ensinava quando Tenochtitlán ainda não existia",
+      "caption": "Oxford é mais antiga que o Império Asteca.\n\nO ensino em Oxford começou por volta de 1096. A cidade de Tenochtitlán, capital asteca, foi fundada em 1325 — mais de 200 anos depois. E o Império Asteca só se consolidou no século XV.\n\nQuando os espanhóis chegaram ao México, em 1519, Oxford já tinha mais de 400 anos de história.\n\nA gente pensa em \"mundo antigo\" e \"mundo moderno\" como blocos separados, mas eles se sobrepõem o tempo inteiro. Enquanto a Europa medieval escrevia em latim, do outro lado do Atlântico cidades enormes eram construídas do zero.\n\nDuas histórias acontecendo ao mesmo tempo, que a escola quase nunca conta juntas.\n\nSalva esse post para não esquecer.\nComenta: qual outra comparação dessas você conhece?",
+      "hashtags": "#historia #oxford #astecas #curiosidades #curiosidadeshistoricas #historiageral #mexico #fatos #vocesabia #aprendinoninstagram"
+    },
+    {
+      "id": "napoleao-eiffel-idade",
+      "headline": "Quando a Torre Eiffel foi inaugurada, 20 pessoas que nasceram antes da Revolução Francesa ainda viviam",
+      "subtext": "A história não é tão longe quanto parece",
+      "caption": "Quando a Torre Eiffel foi inaugurada, em 1889, ainda era possível conversar com alguém que tinha visto a queda da Bastilha.\n\nA Revolução Francesa começou em 1789. Uma pessoa com 20 anos naquele ano teria 120 em 1889 — raro, mas possível. Com 10 anos na Bastilha, estaria com 110. Estamos falando de uma corrente de memória, não de livros.\n\nE isso continua valendo hoje: quem tem 90 anos nasceu em 1936, antes da Segunda Guerra. Uma conversa com um avô é uma conversa com o século XX.\n\nO passado não é um lugar distante. Ele está a duas ou três gerações de distância, sentado à mesa do almoço de domingo.\n\nSalva esse post para lembrar de perguntar mais aos mais velhos.\nComenta: qual história da sua família você mais gosta de ouvir?",
+      "hashtags": "#historia #curiosidades #revolucaofrancesa #torreeiffel #memoria #curiosidadeshistoricas #fatos #vocesabia #historiageral #aprendinoninstagram"
+    },
+    {
+      "id": "brasil-roma-imperio",
+      "headline": "O Brasil já era independente quando o Império Romano ainda tinha imperador",
+      "subtext": "Não é bem assim — e o erro é mais comum do que parece",
+      "caption": "Essa parece absurda, e é. Mas a confusão é reveladora.\n\nO Império Romano do Ocidente caiu em 476. O Brasil foi \"descoberto\" em 1500 e ficou independente em 1822. Diferença de mais de 1.300 anos. Nada a ver.\n\nMas existe uma versão parecida que é verdadeira e ainda mais estranha: o Império Romano do Oriente, o Bizantino, só caiu em 1453. Ou seja, em 1492, quando Colombo chegou à América, ainda existia um imperador romano governando Constantinopla.\n\nE em 1500, quando Cabral aportou na Bahia, o romance de cavalaria ainda era sucesso editorial na Europa, com Rodrigo e os visigodos como heróis.\n\nA história é uma colcha de retalhos. Perguntas simples como \"quando Roma caiu?\" têm respostas que dependem de onde você está olhando.\n\nSalva esse post para a próxima aula de história.\nComenta: você sabia do Império Romano do Oriente?",
+      "hashtags": "#historia #roma #imperioromano #bizantino #curiosidades #brasil #curiosidadeshistoricas #fatos #vocesabia #historiageral #aprendinoninstagram"
+    },
+    {
+      "id": "telefone-mais-velho-lincoln",
+      "headline": "Existem gravações de voz de gente que nasceu no século XVIII",
+      "subtext": "O primeiro registro de voz humana é de 1860",
+      "caption": "Existem gravações de voz de gente que nasceu no século XVIII.\n\nO primeiro registro sonoro da história é de 1860, feito com um fonoautógrafo — uma máquina que desenhava a vibração do som em papel. A voz só foi ouvida de verdade em 2008, quando conseguiram reproduzir o traço.\n\nQuem tinha 20 anos em 1800 pôde, sim, gravar a própria voz em uma máquina como essa. A Revolução Industrial e a invenção do telefone aconteceram na mesma vida.\n\nHoje a gente acha normal escutar alguém que morreu há cem anos. Mas por milênios a humanidade não teve acesso a nenhuma voz do passado — só texto.\n\nEscutar é uma invenção recente. E isso muda completamente o que a gente sabe sobre quem veio antes.\n\nSalva esse post para lembrar.\nComenta: qual voz do passado você queria ouvir?",
+      "hashtags": "#historia #curiosidades #fonografo #som #tecnologia #curiosidadeshistoricas #fatos #vocesabia #historiageral #aprendinoninstagram"
+    },
+    {
+      "id": "escravidao-piramides-mais-proxima",
+      "headline": "A escravidão no Brasil acabou antes das pirâmides ficarem do jeito que estão hoje",
+      "subtext": "A erosão das pirâmides é mais recente do que parece",
+      "caption": "As pirâmides de Gizé não estavam assim quando foram construídas.\n\nElas eram revestidas de pedra calcária polida, branca, que refletia o sol. A Grande Pirâmide tinha um topo dourado. Com o tempo, o revestimento foi sendo saqueado e a erosão expôs o miolo de blocos brutos que a gente vê hoje.\n\nBoa parte desse desgaste aconteceu nos últimos 700 anos — muito depois da era de Cleópatra, muito depois da Idade Média. Em 1300 d.C., por exemplo, um terremoto danificou seriamente várias pirâmides.\n\nOu seja: a imagem que você tem de uma ruína milenar é, na verdade, o resultado de uma destruição relativamente recente. As pirâmides passaram mais tempo com cara de pirâmide do que com cara de ruína.\n\nIsso vale para quase tudo. Ruína é um estado recente, não um estado natural.\n\nSalva esse post para lembrar na próxima vez que alguém falar de \"pirâmides milenares\".\nComenta: você sabia que elas eram revestidas?",
+      "hashtags": "#historia #piramides #egito #curiosidades #gizeh #curiosidadeshistoricas #fatos #vocesabia #historiageral #antigoegito #aprendinoninstagram"
+    },
+    {
+      "id": "londres-metro-imperio-otomano",
+      "headline": "O metrô de Londres é mais antigo que o Império Otomano terminar",
+      "subtext": "O Império só caiu em 1922 — depois de um trem subterrâneo",
+      "caption": "O primeiro metrô do mundo, em Londres, abriu em 1863. O Império Otomano só chegou ao fim em 1922 — quase 60 anos depois.\n\nFuncionava de verdade: trens a vapor debaixo da terra, com fumaça saindo pelas boca de lobo. Naquele mesmo momento existiam pessoas pagando passagem em Istambul para atravessar continentes que hoje não existem mais.\n\nA gente aprende a história em sequência: Antiguidade, Idade Média, Moderna, Contemporânea. Mas a tal \"Idade Contemporânea\" conviveu com impérios que pareciam eternos — e que desapareceram em uma geração.\n\nNada do que está aí agora é permanente. Isso é uma boa lição de história e uma boa lição de vida.\n\nSalva esse post para lembrar.\nComenta: qual império você acha que vai entrar na lista dos próximos?",
+      "hashtags": "#historia #londres #metro #imperiootomano #curiosidades #curiosidadeshistoricas #fatos #vocesabia #historiageral #aprendinoninstagram"
+    },
+    {
+      "id": "ultima-pessoa-escrava-eua",
+      "headline": "Existe uma pessoa viva que nasceu quando ainda havia escravizados no Brasil",
+      "subtext": "A abolição não é tão antiga quanto a gente sente",
+      "caption": "A escravidão no Brasil foi abolida em 1888. Uma pessoa nascida em 1880 estaria viva em 1980.\n\nE existe um marco conhecido: a última pessoa escravizada nos Estados Unidos, nascida em 1860, morreu em 1972. Cem anos depois de um dos símbolos mais famosos do mundo ter sido inaugurado, ela ainda estava aqui contando o que viu.\n\nTraduzindo: a escravidão não é uma coisa de \"época de livro didático\". É uma coisa que os bisavós dos avós de gente viva alcançaram. As marcas dela não têm 200 anos — muitas delas são contemporâneas.\n\nA história do Brasil é recente. Mais recente do que a gente gosta de acreditar.\n\nSalva esse post. E se puder, converse com alguém mais velho da sua família sobre o que ele ouviu dos avós.\nComenta: qual história da sua família estava mais perto de você do que imaginava?",
+      "hashtags": "#historia #abolicao #brasil #curiosidades #memoria #curiosidadeshistoricas #fatos #vocesabia #historiageral #aprendinoninstagram"
+    },
+    {
+      "id": "dvd-mais-velho-que-brasilia",
+      "headline": "Brasília é mais nova do que a música de rock",
+      "subtext": "A capital do Brasil nasceu quase na era dos discos de vinil",
+      "caption": "Brasília foi inaugurada em 1960. E o rock and roll já tinha mais de uma década: Elvis gravou em 1954, e a expressão \"rock and roll\" apareceu em 1951.\n\nNa prática, quando JK entregou a nova capital, a juventude brasileira já dançava o ritmo do ié-ié com a guitarra elétrica. E o primeiro LP de estúdio comercial é de 1948. Toda a era do disco de vinil já estava em curso quando Brasília nasceu.\n\nEsse é o tipo de comparação que arruma o tempo no nosso cérebro. A gente trata coisas com o mesmo peso cultural como se fossem de eras diferentes — mas a capital do Brasil é praticamente contemporânea dos Beatles, não de Napoleão.\n\nNada disso é novidade para quem viveu. Mas é impressionante quando você para para comparar.\n\nSalva esse post para a próxima conversa.\nComenta: qual dessas comparações te surpreendeu mais?",
+      "hashtags": "#historia #brasilia #rock #curiosidades #musica #curiosidadeshistoricas #fatos #vocesabia #historiageral #brasil #aprendinoninstagram"
+    }
+  ]
+}
