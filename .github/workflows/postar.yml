@@ -1,0 +1,44 @@
+name: Publicar post do dia
+
+on:
+  schedule:
+    - cron: "0 22 */2 * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "So gerar a imagem, sem publicar"
+        required: false
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: post-diario
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar o repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Instalar fontes
+        run: sudo apt-get update && sudo apt-get install -y fonts-dejavu-core
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Gerar e publicar
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          BUFFER_CHANNEL_ID: ${{ secrets.BUFFER_CHANNEL_ID }}
+          GIT_BRANCH: ${{ github.ref_name }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
+        run: python publish.py
