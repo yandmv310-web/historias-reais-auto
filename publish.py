@@ -79,10 +79,10 @@ def public_url(path: Path):
 
 def create_buffer_post(channel_id: str, text: str, image_url: str):
     query = """
-    mutation CreatePost($input: PostInput!) {
+       mutation CreatePost($input: CreatePostInput!) {
       createPost(input: $input) {
         ... on PostActionSuccess {
-          post { id dueAt status }
+          post { id dueAt }
         }
         ... on MutationError { message }
       }
